@@ -4,6 +4,9 @@
 body{
     background-color: #ADD8E6;
 }
+#fig{
+    width: 50%;
+}
 /* usa esse para colocar comentario no css*/
 h1{
     color:blue;
